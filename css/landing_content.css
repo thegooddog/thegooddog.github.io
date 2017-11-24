@@ -24,17 +24,10 @@
     left: 50%;
     transform: translateX(-50%) translateY(-50%);
   z-index: 1000;
+  width: 400px;
 
 }
 
-#overlayimg{
-  position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translateX(-50%) translateY(-50%);
-  z-index: 1000;
-  width: 500px;
-}
 
 /* Section 0
  * --------------------------------------- */
